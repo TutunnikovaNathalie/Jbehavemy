@@ -9,6 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 /**
  * Created by Samsung on 08.05.2017.
  */
+//test
 public class CheckOutPage extends PageObject {
 
     @FindBy(xpath = "//h4[@class='modal-title']/b")
